@@ -8,11 +8,11 @@ The primary goal of this analysis is to examine the correlation between advertis
 **Findings**
 After analyzing the data, we made the following conclusions:
 
--- Influencer Impact: Interestingly, the data revealed that the number of influencers used in advertising did not significantly affect sales. While the majority of influencers were classified as "mega influencers," it was the "nano influencers" that contributed the most to overall sales.  
+- Influencer Impact: Interestingly, the data revealed that the number of influencers used in advertising did not significantly affect sales. While the majority of influencers were classified as "mega influencers," it was the "nano influencers" that contributed the most to overall sales.  
 
--- Advertisement Investment: The investment made in various marketing segments, such as TV, radio, and social media, directly influenced higher sales and ultimately led to increased profitability.  
+- Advertisement Investment: The investment made in various marketing segments, such as TV, radio, and social media, directly influenced higher sales and ultimately led to increased profitability.  
 
--- Future Directions
+- Future Directions
 For future analysis, we may delve deeper into the influence of individual advertising channels on sales performance. Additionally, exploring the engagement rates of different influencer categories could provide valuable insights for more targeted and effective marketing strategies.  
 
 Feel free to explore the Jupyter Notebook provided to access the full data analysis and visualizations.
